@@ -61,3 +61,11 @@ Changes not staged for commit:
 	modified:   answers.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 10: No, the local copy does not show the additional lines added directly in GitHub.
+
+Answer 11: I am given an error stating that updates are rejected because the remote work has work that I do not have locally.
+
+Answer 12: Yes, after using git pull my remote changes showed up in my local file.
+
+Answer 13: .  ..  .git
